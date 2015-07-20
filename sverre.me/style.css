@@ -33,12 +33,23 @@ footer {
 	width:100%;
 	text-align: center;
 	padding-top: 5px;
-
 	position:absolute;
 	bottom: 0;
-	left; 0;
+	left: 0;
 }
 
 footer p{
 	opacity: 0.5;
+}
+
+#footer_content {
+	padding: 5px 0 10px 0;
+	opacity: 0.5;
+	color: white;
+}
+
+#footer_content a{
+	margin-bottom: 5px;
+	color: white;
+	text-decoration: none;
 }
